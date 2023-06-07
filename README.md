@@ -7,5 +7,5 @@
  
  
 ### Motivo:
-<p>A intenção é ter um mural onde eu possa atualizar as tecnologias que estou desenvolvendo para usar no meu perfil nas redes sociais e etc.</p>
+<p>A intenção é ter um mural onde eu possa atualizar as tecnologias que estou desenvolvendo para usar nos meus perfis das redes sociais e etc.</p>
 

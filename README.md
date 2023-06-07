@@ -3,7 +3,7 @@
 ## <p>Webpage criada para ser usada como Banner com as tecnologias que domino.</p>
 
 
- ![Screnshot](BannerTecnologias/assets/printBannerForRedme.png) 
+ ![Screnshot](https://github.com/JonadabHonorio/BannerTecnologias/blob/main/assets/printBannerForRedme.png) 
  
  
 ### Motivo:
